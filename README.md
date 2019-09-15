@@ -5,9 +5,9 @@ In fact, for Free distances in Convolutional codes we have to find the shortest 
 ## Example
 for example, we can consider this code ‫‪```G[1011‬‬ 1101‬‬]``` as a Convolutional codes.
 
-you can see the picture of  state machine's graph => [Image of state machine's graph](https://drive.google.com/file/d/1YHNqGIeAAIBZtn9kcBnC95XnjrHsAFnk/view?usp=sharing)
+you can see the picture of  state machine's graph => ![](https://github.com/SINAABBASI/Digital-Communication-Final/blob/master/pic1.png)
 
-and the shortest path Dijkstra preserved => [Final Image](https://drive.google.com/file/d/11gL9yCLoo94CH6miBZ9PBL8eKZA4Ui7k/view?usp=sharing)
+and the shortest path Dijkstra preserved => ![](https://github.com/SINAABBASI/Digital-Communication-Final/blob/master/pic2.png)
 
 and you can see the D_Free is 6!
 
