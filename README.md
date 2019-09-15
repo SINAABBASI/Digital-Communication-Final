@@ -15,6 +15,7 @@ and you can see the D_Free is 6!
 num of vertex = 8 , num of edges = 16
 and each 16 next line describe an edge :
 a b w
+
 a connect to b with hamming weghit w
 ```
 8 16
